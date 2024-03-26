@@ -1,0 +1,118 @@
+body {
+    background-color: #FFBFAC;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #FFE4DB;
+    border-radius: 10px;
+}
+
+.navbar a {
+    float: left;
+    text-align: center;
+    padding: 12px 35px;
+    text-decoration: none;
+    font-size: 17px;
+    color: black;
+}
+
+.empower {
+    text-align: center;
+}
+.empower h2 {
+    position: absolute; /* Make text absolutely positioned */
+    top: 10; /* Position at the top of the container */
+    left: 20; /* Position at the left of the container */
+    font-size: 219px;
+    width: 100%; /* Optional: Set width to span the container */
+    text-align: center; /* Center the text horizontally */
+    color: #000000;
+    ; /* Optional: Set text color */
+     /* Optional: Add semi-transparent background */
+    padding: 10px; /* Add padding around the text */
+  }
+  .empower h3 {
+    position: absolute; 
+    top: 200; 
+    left: 410; 
+    font-size: 157px;
+    width: 100%; 
+    text-align: center; 
+    color:black; 
+    padding: 10px; 
+  }
+  .empower h4 {
+    position: absolute; 
+    top: 500; 
+    left: 400; 
+    font-size: 30px;
+    width: 100%; 
+    text-align: center; 
+    color:black; /* Optional: Set text color */
+     /* Optional: Add semi-transparent background */
+    padding: 10px; /* Add padding around the text */
+  }
+
+.image-container {
+    background-size: cover; 
+    height: 200px; 
+    width: 300px; 
+}
+.container{
+    padding-top: 50px;
+
+}
+.box{
+    margin-top: 50px;
+    margin-left: 60px;
+    height:689px;
+    width:1362px;
+    background-color: #FFDDD3;
+    border-radius: 41px;
+    position:relative;
+}
+.about-us {
+    position: absolute; 
+}
+.about {
+    padding-top: 100px;
+    font-weight: bolder;
+    padding-left: 700px;
+    font-size: 36px; 
+}
+.info{
+    font-size: 30px; 
+    padding-left: 700px;
+}
+
+.box1{
+    margin-top: 50px;
+    margin-left: 60px;
+    height:689px;
+    width:1362px;
+    background: #FFDDD3;
+    border-radius: 41px;
+    position: relative; 
+    
+}
+.text-1{
+    font-size: 72px;
+    padding-left: 80px;
+    padding-top:80px;
+}
+.text-2{
+    font-size: 30px;
+   padding-left: 80px;
+
+}
+.mission{   
+    position: absolute; 
+    padding-top: 10px;
+    right: 0; /* Align the image to the right within its container */
+    bottom: 0; /* Align the image to the bottom within its container */
+    height:588px; /* Ensure the image doesn't overflow the container */
+    width:642px;/* Ensure the image doesn't overflow the container */
+    
+}
+
